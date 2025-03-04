@@ -1,4 +1,4 @@
-![Same](https://media.licdn.com/dms/image/v2/D5616AQFC8yOBTquhVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706012127116?e=1746662400&v=beta&t=ql6DdJqql3sKeaMBmzcorSobLrzmHwr0XUHe8Z7zGL8)
+<!-- ![Same](https://media.licdn.com/dms/image/v2/D5616AQFC8yOBTquhVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706012127116?e=1746662400&v=beta&t=ql6DdJqql3sKeaMBmzcorSobLrzmHwr0XUHe8Z7zGL8) -->
 
 <!-- ![Dhiandika](https://64.media.tumblr.com/8c3253d94b634bcc02537cd3ebe4b1b3/c1dba2f825811012-0c/s540x810/53391ca2af2c9e2f3b92c3a13f5762ec4c7bb5f2.gifv) -->
 
@@ -7,6 +7,8 @@
 
 **`Student`**
 <br>
+<br>
+
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ### I'm a Passionate Web Developer and data scientist based on Bali, Indonesia
