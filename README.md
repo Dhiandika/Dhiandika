@@ -5,6 +5,8 @@
 # Hi there!  I'm Dhiandika Aditya
 [![Dhiandika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiandika&theme=tokyo-night)]()
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+
 **`Student`**
 <br>
 <br>
@@ -26,7 +28,7 @@
 - ⚡ Fun fact: Anime Lovers & Hololive Fandom 〽️
 
 
----
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
 # Languages and Tools
 
@@ -52,5 +54,18 @@
 
 <p align="left"> <a href="https://github.com/Dhiandika"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhiandika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhiandika&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+
+<details>
+  <summary>My stats in Github</summary>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31albx66gh2tbzv7kwtu2wbny3mu">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31albx66gh2tbzv7kwtu2wbny3mu" alt="Data Card for Spotify">
+</a>
+</details>
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dhiandika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/i-putu-dhiandika-aditya-permana-/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/npemburu6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](404.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](npemburu6@gmail.com)  
+
