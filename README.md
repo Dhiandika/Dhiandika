@@ -57,7 +57,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
 <details>
-  <summary>My stats in Github</summary>
+  <summary>My Sportify list</summary>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31albx66gh2tbzv7kwtu2wbny3mu">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31albx66gh2tbzv7kwtu2wbny3mu" alt="Data Card for Spotify">
 </a>
