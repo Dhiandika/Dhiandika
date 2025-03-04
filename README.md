@@ -50,8 +50,4 @@
 <p align="left"> <a href="https://github.com/Dhiandika"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhiandika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhiandika&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
 
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Dhiandika&theme=tokyonight)  
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dhiandika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/i-putu-dhiandika-aditya-permana-/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/npemburu6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](404.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](npemburu6@gmail.com)  
