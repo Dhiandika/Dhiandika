@@ -1,4 +1,4 @@
-![Same](https://media.licdn.com/dms/image/v2/D5616AQFC8yOBTquhVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706012127116?e=1746662400&v=beta&t=ql6DdJqql3sKeaMBmzcorSobLrzmHwr0XUHe8Z7zGL8)
+<!-- ![Same](https://media.licdn.com/dms/image/v2/D5616AQFC8yOBTquhVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706012127116?e=1746662400&v=beta&t=ql6DdJqql3sKeaMBmzcorSobLrzmHwr0XUHe8Z7zGL8) -->
 <!-- 
 ![Dhiandika](https://64.media.tumblr.com/8c3253d94b634bcc02537cd3ebe4b1b3/c1dba2f825811012-0c/s540x810/53391ca2af2c9e2f3b92c3a13f5762ec4c7bb5f2.gif) -->
 
