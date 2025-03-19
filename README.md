@@ -1,6 +1,8 @@
 <!-- ![Same](https://media.licdn.com/dms/image/v2/D5616AQFC8yOBTquhVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706012127116?e=1746662400&v=beta&t=ql6DdJqql3sKeaMBmzcorSobLrzmHwr0XUHe8Z7zGL8) -->
 
-<!-- ![Dhiandika](https://64.media.tumblr.com/8c3253d94b634bcc02537cd3ebe4b1b3/c1dba2f825811012-0c/s540x810/53391ca2af2c9e2f3b92c3a13f5762ec4c7bb5f2.gifv) -->
+![Dhiandika](https://64.media.tumblr.com/8c3253d94b634bcc02537cd3ebe4b1b3/c1dba2f825811012-0c/s540x810/53391ca2af2c9e2f3b92c3a13f5762ec4c7bb5f2.gifv)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDhiandika&labelColor=%23697689&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDhiandika)
 
 # Hi there!  I'm Dhiandika Aditya
 [![Dhiandika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiandika&theme=tokyo-night)]()
@@ -26,6 +28,12 @@
   - **Instagram:**  [@npemburu6](https://www.instagram.com/npemburu6)
   - **Situs Web:** [Coming soon](https://www.404.com/)
 - ⚡ Fun fact: Anime Lovers & Hololive Fandom 〽️
+- 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+
+## :trophy: Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhiandika&theme=algolia)](https://github.com/dhiandika/github-profile-trophy)
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
@@ -51,12 +59,26 @@
   <a href="https://hapi.dev/" target="_blank"><img src="https://img.shields.io/badge/Hapi.js-467990?style=for-the-badge&logo=hapi&logoColor=white" alt="Hapi.js" /></a>
 </p>
 
+## :bar_chart: Github Statistic
 
-<p align="left"> <a href="https://github.com/Dhiandika"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhiandika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhiandika&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
+<p align="center">
+<a href="https://github.com/dhiandika">
+  <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiandika&theme=algolia"/>
+</a><br/>
+<a href="https://github.com/dhiandika">
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiandika&theme=algolia"/>
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiandika&theme=algolia"/>
+</a><br/>
+<!-- <a href="https://github.com/dhiandika">
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiandika&theme=algolia"/>
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiandika&theme=algolia&utcOffset=7"/>
+</a> -->
+</p>
+<p align="center"> <a href="https://github.com/Dhiandika"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhiandika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhiandika&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
-<details>
+<details open>
   <summary>My Sportify list</summary>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31albx66gh2tbzv7kwtu2wbny3mu">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31albx66gh2tbzv7kwtu2wbny3mu" alt="Data Card for Spotify">
