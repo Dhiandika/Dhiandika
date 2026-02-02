@@ -30,10 +30,10 @@
 - ⚡ Fun fact: Anime Lovers & Hololive Fandom 〽️
 - 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
-
+<!-- 
 ## :trophy: Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhiandika&theme=algolia)](https://github.com/dhiandika/github-profile-trophy)
-
+-->
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
