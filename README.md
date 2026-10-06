@@ -8,7 +8,7 @@
 <!-- 
 
 [![Dhiandika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiandika&theme=tokyo-night)]()
--->
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
 **`Student`**
@@ -35,11 +35,11 @@
 <!-- 
 ## :trophy: Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhiandika&theme=algolia)](https://github.com/dhiandika/github-profile-trophy)
--->
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
-
+-->
 # Languages and Tools
 
 
