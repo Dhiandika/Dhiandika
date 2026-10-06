@@ -37,9 +37,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhiandika&theme=algolia)](https://github.com/dhiandika/github-profile-trophy)
 
 
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 -->
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+
 # Languages and Tools
 
 
