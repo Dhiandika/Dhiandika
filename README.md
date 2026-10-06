@@ -5,8 +5,10 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDhiandika&labelColor=%23697689&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDhiandika)
 
 # Hi there!  I'm Dhiandika Aditya
-[![Dhiandika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiandika&theme=tokyo-night)]()
+<!-- 
 
+[![Dhiandika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiandika&theme=tokyo-night)]()
+-->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
 **`Student`**
